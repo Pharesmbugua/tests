@@ -1,0 +1,42 @@
+body{
+    color: aqua;
+background-color: hotpink ;
+text-align: center;
+}
+
+.one{
+    font-family: "cursive";
+    font-size: 90px ;
+    font-weight: bold;
+    border: aqua 2px solid;
+border-radius: 45px;
+}.two{
+    width: 50%;
+border: #261cff 3px solid;
+ border-radius: 45px;
+ }
+a{
+text-decoration: none ;
+
+color: aqua;
+}a:hover{
+    color: red;
+    font-size: 21px;
+    border-bottom: blue 2px dashed;
+ }#one{
+    background-color: snow;
+    color: black;
+   }
+  #one:hover{
+      background-color:  #50aeb8 ;
+      border-bottom: #261cff;
+
+
+
+  }
+
+
+
+
+
+

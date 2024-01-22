@@ -1,0 +1,48 @@
+.a{
+    background-color: hotpink;
+    font-family: cursive;
+    font-weight: bolder;
+text-align: center;
+    font-size: x-large;
+    border: #261cff;
+    border-radius: 45px;
+}
+.a:hover{
+    color: chartreuse;
+    font-size: x-large;
+    background-color: black;
+    border: purple 5px solid;
+    border-radius: 40px;
+ }
+.b{
+    background-color: #50aeb8;
+   font-family: cursive;
+    border-bottom: chocolate;
+text-align: center;
+    font-size: xx-large;
+
+}
+.b:hover{
+  font-size: xx-large;
+    color: chartreuse;
+    background-color: black;
+    border: chartreuse 2px solid;
+ }
+.c{
+    background-color: black;
+    color: snow;
+    font-size: xx-large;
+
+}
+.c:hover{
+    font-size: larger;
+    color: chartreuse;
+    background-color: black;
+    border: snow 2px double ;
+
+}
+body{
+
+    
+}
+
