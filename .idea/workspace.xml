@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="221ed906-5e1f-4e37-8554-ab7d092a0885" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/basic.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Apen software.html" beforeDir="false" afterPath="$PROJECT_DIR$/Apen software.html" afterDir="false" />
-    </list>
+    <list default="true" id="221ed906-5e1f-4e37-8554-ab7d092a0885" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -130,7 +123,7 @@
       <workItem from="1705993254584" duration="76000" />
       <workItem from="1705997988999" duration="520000" />
       <workItem from="1706075535330" duration="46000" />
-      <workItem from="1706084747597" duration="832000" />
+      <workItem from="1706084747597" duration="1259000" />
     </task>
     <servers />
   </component>
