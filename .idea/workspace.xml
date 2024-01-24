@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="221ed906-5e1f-4e37-8554-ab7d092a0885" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/basic.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apen software.html" beforeDir="false" afterPath="$PROJECT_DIR$/Apen software.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2akuS1JtZLSY7tFtWcHJ5JZbYSR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/emobilis/Downloads/private/Phares project/Web development/class",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$USER_HOME$/Music/kinara07/web development/jioni" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="basic" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="221ed906-5e1f-4e37-8554-ab7d092a0885" name="Changes" comment="" />
+      <created>1704874894257</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704874894257</updated>
+      <workItem from="1704874895834" duration="217000" />
+      <workItem from="1704875178886" duration="179000" />
+      <workItem from="1704875358712" duration="7302000" />
+      <workItem from="1704885649160" duration="31000" />
+      <workItem from="1704961374194" duration="8727000" />
+      <workItem from="1704970796717" duration="189000" />
+      <workItem from="1704971059769" duration="264000" />
+      <workItem from="1704971752736" duration="8398000" />
+      <workItem from="1705034351724" duration="64000" />
+      <workItem from="1705046318314" duration="26000" />
+      <workItem from="1705046346192" duration="6390000" />
+      <workItem from="1705053451889" duration="1222000" />
+      <workItem from="1705057970459" duration="5861000" />
+      <workItem from="1705064747353" duration="12000" />
+      <workItem from="1705064809852" duration="31000" />
+      <workItem from="1705067295244" duration="32000" />
+      <workItem from="1705305844603" duration="9556000" />
+      <workItem from="1705316307963" duration="707000" />
+      <workItem from="1705380366461" duration="40000" />
+      <workItem from="1705478196971" duration="9733000" />
+      <workItem from="1705489284153" duration="11000" />
+      <workItem from="1705554599165" duration="317000" />
+      <workItem from="1705565154645" duration="10078000" />
+      <workItem from="1705576118365" duration="39000" />
+      <workItem from="1705639948602" duration="83000" />
+      <workItem from="1705650922704" duration="286000" />
+      <workItem from="1705651475607" duration="8365000" />
+      <workItem from="1705661714034" duration="69000" />
+      <workItem from="1705898484052" duration="28000" />
+      <workItem from="1705910660359" duration="423000" />
+      <workItem from="1705993254584" duration="76000" />
+      <workItem from="1705997988999" duration="520000" />
+      <workItem from="1706075535330" duration="46000" />
+      <workItem from="1706084747597" duration="832000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
